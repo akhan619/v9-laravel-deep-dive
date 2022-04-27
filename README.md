@@ -94,7 +94,7 @@ So to summarize:
 
 Of course, this is just scratching the surface. So next you may navigate to any of the following sections to see more.
 
-- [WIP - Creating the application](#)
+- [WIP - Creating the application](https://github.com/akhan619/v9-laravel-deep-dive/blob/main/create-the-application.md)
 
 # Author
 - [Aman Khan](https://github.com/akhan619)
